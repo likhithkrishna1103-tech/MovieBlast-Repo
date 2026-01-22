@@ -1,0 +1,12 @@
+{
+  "id": "dev.likhith.movieblast",
+  "name": "MovieBlast",
+  "internalName": "MovieBlast",
+  "version": 1,
+  "description": "MovieBlast API Provider",
+  "language": "te",
+  "tvTypes": ["Movie"],
+  "baseUrl": "https://app.cloud-mb.xyz",
+  "iconUrl": "",
+  "repositoryId": "dev.likhith.repo"
+}
