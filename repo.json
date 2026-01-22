@@ -1,0 +1,9 @@
+{
+  "name": "Likhith Test Repository",
+  "id": "com.likhith.repo",
+  "description": "My first SkyStream plugin repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/likhithkrishna1103-tech/MovieBlast-Repo/main/plugins.json"
+  ]
+}
