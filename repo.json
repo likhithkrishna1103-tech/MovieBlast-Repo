@@ -1,0 +1,10 @@
+{
+  "name": "Likhith Repository",
+  "id": "dev.likhith.repo",
+  "version": 1,
+  "author": "Likhith",
+  "description": "MovieBlast SkyStream Provider Repository",
+  "plugins": [
+    "dev.likhith.movieblast"
+  ]
+}
