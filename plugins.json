@@ -4,10 +4,11 @@
     "internalName": "MovieBlast",
     "url": "https://raw.githubusercontent.com/likhithkrishna1103-tech/MovieBlast-Repo/main/MovieBlast.js",
     "icon": "",
-    "version": 1,
+    "version": 2,
     "description": "Test MovieBlast provider",
     "authors": ["Likhith"],
     "language": "te",
     "types": ["Movies"]
   }
 ]
+
